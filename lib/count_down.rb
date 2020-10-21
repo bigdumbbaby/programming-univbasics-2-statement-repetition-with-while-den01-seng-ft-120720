@@ -6,4 +6,5 @@ while count >= 0 do
   else
     puts "Happy New Year"
   end
+  count -= 1
 end
