@@ -4,7 +4,7 @@ while count >= 0 do
   if count != 0 
     puts "#{count}"
   else
-    puts "Happy New Year"
+    puts "Happy New Year!"
   end
   count -= 1
 end
